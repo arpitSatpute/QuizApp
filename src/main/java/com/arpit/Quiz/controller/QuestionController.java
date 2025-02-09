@@ -3,7 +3,6 @@ package com.arpit.Quiz.controller;
 import com.arpit.Quiz.dto.QuestionDTO;
 import com.arpit.Quiz.entity.Question;
 import com.arpit.Quiz.service.QuestionService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

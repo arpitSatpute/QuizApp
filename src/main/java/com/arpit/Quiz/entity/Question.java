@@ -2,7 +2,9 @@ package com.arpit.Quiz.entity;
 
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
 
 @Entity
 @Getter
